@@ -1,0 +1,25 @@
+input[type="file"]{
+    margin: 0 0 12px;
+    padding: 10px 2%;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+.inicio{
+    width: 0%;
+}
+
+.final{
+    width: 100%;
+}
+
+.animacion{
+    transition: all 2s ease .5s;
+    -webkit-transition: all 2s ease .5s;
+    -moz-transition: all 2s ease .5s;
+    -ms-transition: all 2s ease .5s;
+    -o-transition: all 2s ease .5s;
+}
